@@ -55,4 +55,4 @@ public class Main {
         System.out.printf("Game Over. Total Score = %d\n", totalScore);
         scanner.close();
     }
-
+}
